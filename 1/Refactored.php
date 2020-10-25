@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * http://strategico-dev.ru/refactoring-1/
+ * 
  * @property string $name
  * @property string $title
  * @property string $content
